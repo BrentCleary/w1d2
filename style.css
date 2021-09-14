@@ -1,0 +1,13 @@
+.red {
+/* key:value */
+color:red;
+}
+
+/* . indicates a class */
+
+.box {
+    background-color:saddlebrown;
+    margin: 20px;
+    height: 200px;
+    width: 200px;
+}
